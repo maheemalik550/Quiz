@@ -1,0 +1,17 @@
+body{
+    background-color: lightsalmon;
+}
+.abc{
+    width: 80px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    
+}
+.etc{
+    background-color: white;
+    font-weight: bold;
+}
+#style{
+    background-color: white;
+}
